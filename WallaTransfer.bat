@@ -1,0 +1,1 @@
+wscript.exe "C:\WallaTransfer\invisible.vbs" "C:\WallaTransfer\dist\msgbox.exe"
